@@ -1,2 +1,2 @@
-# GrogBot
-Maybe a Discord Bot for the Grog Discord Server
+# LuciferBot
+Maybe a Discord Bot for me
